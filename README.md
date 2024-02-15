@@ -16,7 +16,7 @@
 
 ## 📊 Stats
 
-<div align="left" style="display:inline_block">
+<div align="center" style="display:inline_block">
   <img height="180em" alt="Wlisk github stats" src="https://github-readme-stats.vercel.app/api?username=Wlisk&theme=shadow_blue&show_icons=true&hide=issues,contribs&rank_icon=github&include_all_commits=true&custom_title=Github%20Stats&text_bold=true"/>
   <img height="180em" alt="Wlisk github most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlisk&layout=compact&theme=shadow_blue"/>
 </div>
